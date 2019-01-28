@@ -14,6 +14,11 @@
 
 Bei diesem Projekt handelt es sich um eine mögliche Umsetzung eines Zeiterfassungssystemes für die Gleichmäßigkeitsprüfung (GLP) von Oldtimern.
 
+![](https://i.imgur.com/24ltLHH.png)
+
+Am Anfang und Ende der Teststrecke befindet sich jeweils eine Lichschranke, welche von einem Fahrzeug ausgelöst wird (in der Abbildung grau).
+Die Lichtschranken sind durch einfache, beidseitig steckbare Leitungen mit der Steuerungseinheit (blau) verbunden. Letztere verfügt über ein LCD zur Anzeige von Informationen und einen Taster für die Bedienung des Systems.
+
 Bei der Umsetzung des Projekts lag der Fokus stets auf Effizienz, Funktionalität und Stabilität.
 
 Dieses Projekt wurde geplant und entwickelt in einer Kooperation zwischen der Firma Di-Soric und dem Berufskolleg für Technik Lüdenscheid.
