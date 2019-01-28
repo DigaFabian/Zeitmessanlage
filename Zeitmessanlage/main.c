@@ -116,8 +116,8 @@ int main(void)
 				set_Curser_position(3,1);
 				LCD_print_String("sensor 1");
 			
-				sensor1state = FALSE;
 				setLS1Interrupt(TRUE);
+				sensor1state = FALSE;
 				
 				runningTimeMs = 0;
 				while(!sensor1state)
@@ -155,9 +155,8 @@ int main(void)
 				set_Curser_position(3,1);
 				LCD_print_String("sensor 2");
 				
-				sensor2state = FALSE;
 				setLS2Interrupt(TRUE);
-				
+				sensor2state = FALSE;
 				
 				runningTimeMs = 0;
 				while(!sensor2state)
